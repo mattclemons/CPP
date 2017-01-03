@@ -1,5 +1,5 @@
-//  https://www.youtube.com/watch?v=Rub-JsjMhWY
-//  have to compile with c++11
+
+//  compile with c++11
 //  g++ -std=c++11
 
 #include <iostream>
